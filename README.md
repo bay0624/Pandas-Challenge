@@ -5,7 +5,7 @@ I was able to analyze and create a report with the following:
 2. Purchasing Analysis which shows the average number as well as the total number of purchases, and total revenue.
 3. Gender demographics as well as purchasing analysis based on gender.
 4. Age Demographics.
-5. Top spending users as well as the most profitable items.
+5. Top spending players as well as the most profitable items.
 
 <hr>
 
